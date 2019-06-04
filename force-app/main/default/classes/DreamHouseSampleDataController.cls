@@ -1,4 +1,4 @@
-global with sharing class DreamHouseSampleDataController {
+global with sharing class DreamHouseSampleDataController  {
 
     @RemoteAction
     global static void deleteAll() {
